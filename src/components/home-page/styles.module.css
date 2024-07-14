@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 16px;
+    gap: 16px;
+margin: 16px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    max-width: 300px;
+    gap: 10px;
+}
+.input{
+    padding: 5px;
+    outline: 0;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.data{
+    display: flex;
+    flex-direction: column;
+}
